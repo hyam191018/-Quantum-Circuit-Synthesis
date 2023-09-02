@@ -9,12 +9,6 @@
 
 ## 實驗結果
 
-1. Toffoli gate: 目標小於15個gates  Result: 11
-2. Peres gate: 目標小於14個gates  Result: 16
-3. Fredkin gate: 目標小於17個gates  Result: 33
-4. OR gate: 目標小於17個gates  Result: 13
-5. Toffoli with one negative control line gate: 目標小於15個gate  Result: 12
-
 | - | Toffoli gate | Peres gate | Fredkin gate | OR gate | Toffoli with one negative control line gate |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | Target  | 15  | 14 | 17 | 17 | 15 |
