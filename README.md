@@ -15,3 +15,8 @@
 4. OR gate: 目標小於17個gates  Result: 13
 5. Toffoli with one negative control line gate: 目標小於15個gate  Result: 12
 
+| - | Toffoli gate | Peres gate | Fredkin gate | OR gate | Toffoli with one negative control line gate |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Target  | 15  | 14 | 17 | 17 | 15 |
+| Result  | 11 | 16 | 33 | 13 | 12 |
+
